@@ -14,7 +14,7 @@ backend systems, and cloud-native solutions.
 
 ### 📜 Certifications
 
-[![AWS Certified Cloud Practitioner](./img/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/f4140621-ee3f-4d86-a861-ab360221d6f9/public_url)
+[![AWS Certified Cloud Practitioner](./img/aws-certified-cloud-practitioner-204.png)](https://www.credly.com/badges/f4140621-ee3f-4d86-a861-ab360221d6f9/public_url)
 
 ### ✍️ Writing
 
